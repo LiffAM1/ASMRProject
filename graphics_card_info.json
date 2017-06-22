@@ -1,0 +1,62 @@
+﻿{
+  "1": {
+    "name": "Asus ROG STRIX GTX 1080 O8G GAMING",
+    "rating": "4.5/5",
+    "review_date": "07-18-2016",
+    "interface": "PCI-E",
+    "ram": "8GB",
+    "ram_type": "GDDR5",
+    "clock_speed": "1835 MHz",
+    "cost_usd": "869.99",
+    "cost_gbp": "659.99",
+    "amazon_link": "https://www.amazon.com/ASUS-GeForce-STRIX-Graphics-STRIX-GTX1080-A8G-GAMING/dp/B01K5F8MJK/ref=sr_1_1?s=electronics&ie=UTF8&qid=1494547968&sr=1-1&keywords=asus+geforce+1080"
+  },
+  "2": {
+    "name": "MSI GeForce GTX 1070 GAMING X 8G",
+    "rating": "4.5/5",
+    "review_date": "07-07-2016",
+    "interface": "PCI-E",
+    "ram": "8GB",
+    "ram_type": "GDDR5",
+    "clock_speed": "8018 MHz",
+    "cost_usd": "569.99",
+    "cost_gbp": "419.99",
+    "amazon_link": "https://www.amazon.com/MSI-GTX-1070-GAMING-8G/dp/B01GXOX3SW/ref=sr_1_1?s=electronics&ie=UTF8&qid=1494550883&sr=1-1&keywords=MSI+GeForce+GTX+1070+GAMING+X+8G"
+  },
+  "3": {
+    "name": "Zotac GeForce GTX 1050 Ti 4GB OC Edition",
+    "rating": "4.5/5",
+    "review_date": "12-24-2016",
+    "interface": "PCI-E",
+    "ram": "4GB",
+    "ram_type": "GDDR5",
+    "clock_speed": "7000 MHz",
+    "cost_usd": "149.99",
+    "cost_gbp": "175.00",
+    "amazon_link": "https://www.amazon.com/ZOTAC-GeForce-Compact-Graphics-ZT-P10510B-10L/dp/B01M27X994?psc=1&SubscriptionId=AKIAID2HUF7VPZYSVYFQ&tag=i0914a-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01M27X994%26ascsubtag%3D3652294"
+  },
+  "4": {
+    "name": "XFX AMD Radeon RX 460 4GB Double Dissipation",
+    "rating": "4/5",
+    "review_date": "02-17-2017",
+    "interface": "PCI-E",
+    "ram": "4GB",
+    "ram_type": "GDDR5",
+    "clock_speed": "7000 MHz",
+    "cost_usd": "119.99",
+    "cost_gbp": "129.95",
+    "amazon_link": "https://www.amazon.com/XFX-RX-460P4DFG5-Radeon-DisplayPort-PCI-Express/dp/B01JRJ6MBK/ref=sr_1_1?s=electronics&ie=UTF8&qid=1494551295&sr=1-1&keywords=XFX+AMD+Radeon+RX+460+4GB+Double+Dissipation"
+  },
+  "5": {
+    "name": "XFX Radeon RX 480",
+    "rating": "4/5",
+    "review_date": "08-08-2016",
+    "interface": "PCI-E",
+    "ram": "8GB",
+    "ram_type": "GDDR5",
+    "clock_speed": "8000 MHz",
+    "cost_usd": "369.99",
+    "cost_gbp": "249.99",
+    "amazon_link": "https://www.amazon.com/XFX-RX-480P8DFA6-Radeon-3Displayport-PCI-Express/dp/B01J8CCUL2/ref=sr_1_1?s=electronics&ie=UTF8&qid=1494551589&sr=1-1&keywords=XFX+Radeon+RX+480"
+  }
+}
