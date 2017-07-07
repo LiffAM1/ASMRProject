@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ASMRProject/v14
+*/bin/*
+*/obj/*
+*.dll
+*.lib
